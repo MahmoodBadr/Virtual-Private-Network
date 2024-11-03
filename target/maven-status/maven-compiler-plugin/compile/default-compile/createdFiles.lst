@@ -1,0 +1,7 @@
+main\java\client\VPNClient.class
+main\java\utils\PacketForwarder.class
+main\java\server\ClientHandler.class
+main\java\server\DatabaseManager.class
+main\java\server\VPNServer.class
+main\java\client\VPNClientGUI.class
+main\java\server\ConnectionLog.class
